@@ -1,9 +1,9 @@
 node_modules/
-cpp/
-wasm/
+#cpp/
+#wasm/
 npm-debug.log
-index.html
-app.js
-server.js
-wasm.config.js
+#index.html
+#app.js
+#server.js
+#wasm.config.js
 .DS_Store

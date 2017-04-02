@@ -27,7 +27,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js && node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wasm-init": "wasm-init",
+    "compile": "wasm-compile"
   },
   "bin": {
     "wasm-init": "./bin/wasm-init.js",
